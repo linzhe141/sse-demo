@@ -1,0 +1,9 @@
+{
+	"type": "module",
+	"scripts": {
+		"server": "node src/index.js"
+	},
+	"dependencies": {
+		"express": "^5.1.0"
+	}
+}
